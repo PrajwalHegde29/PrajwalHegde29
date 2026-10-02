@@ -4,7 +4,7 @@
 
 ### Senior Quality Engineer | Test Automation (Selenium + Java) | Manual Testing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Selenium+%7C+Java+%7C+TestNG+%7C+Hybrid+Framework;REST+API+Testing+with+Postman+%26+SoapUI;Insurance+(BFSI)+Domain+Testing;Currently+Learning+Playwright" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Selenium+%7C+Java+%7C+TestNG+%7C+Hybrid+Framework;REST+API+Testing+with+Postman+%26+SoapUI;Currently+Learning+Playwright" />
 
 <br>
 
