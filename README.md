@@ -2,29 +2,18 @@
 
 # Hi 👋, I'm Prajwal Hegde
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Founder+of+Norvique+Technologies;Full+Stack+Developer;Software+Developer;AI+Enthusiast;QA+Automation+Engineer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+### Senior Quality Engineer | Test Automation (Selenium + Java) | Manual Testing
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Selenium+%7C+Java+%7C+TestNG+%7C+Hybrid+Framework;REST+API+Testing+with+Postman+%26+SoapUI;Insurance+(BFSI)+Domain+Testing;Currently+Learning+Playwright" />
 
 <br>
-
-### 🚀 Founder @ Norvique Technologies
-
-Building modern software solutions using AI, Web, Cloud and Automation Technologies.
-
-<p>
-
-<a href="https://norvique-technologies.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge"/>
-</a>
 
 <a href="https://www.linkedin.com/in/prajwal-hegde-a98062220">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:prajwal29hegde@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 ![](https://komarev.com/ghpvc/?username=prajwal29hegde-create&style=for-the-badge&color=blue)
 
@@ -32,166 +21,127 @@ Building modern software solutions using AI, Web, Cloud and Automation Technolog
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🚀 Founder of **Norvique Technologies**
-- 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- ☁️ Learning Cloud Computing
-- 🧪 QA Automation Engineer
-- 📱 Android Application Developer
-- 🌱 Passionate about building scalable software products
-- ❤️ Love solving real-world problems using technology
+Senior Quality Engineer with **4+ years** of experience in **manual and automation testing** for web and mobile applications in the **Insurance (BFSI) domain**, working at **LTIMindtree, Bengaluru**.
 
----
-
-# 🚀 Current Focus
-
-- 🌐 Building Norvique Technologies
-- 🤖 AI Powered Applications
-- 📸 Take SS Screenshot Tool
-- 🎯 Face Recognition Attendance System
-- 📊 Smart Attendance Management System
-- ☁️ Cloud Based Solutions
-- 📱 SaaS Product Development
+- 🧪 Build and maintain **Selenium + Java + TestNG Hybrid Frameworks** using the Page Object Model
+- ⚡ Reduced manual regression effort by **35%** through automation and shift-left practices
+- 🔌 Test REST APIs with **Postman** and SOAP services with **SoapUI**
+- 🔐 Experienced in **Okta SSO** authentication, token validation and session management testing
+- 🐞 Own the complete **defect lifecycle** in JIRA, Rally and ServiceNow
+- 🤝 Mentor junior QA engineers and lead requirement analysis, test planning and release sign-offs
+- 🤖 Use AI tools in my QA workflow for test analysis, debugging and documentation
 
 ---
 
-# 💻 Tech Stack
+## 🎯 Current Focus
 
-## 🚀 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,html,css"/>
-</p>
-
----
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-</p>
+- 🎭 Learning **Playwright** for modern, fast and reliable end-to-end automation
+- 🥒 Strengthening **BDD with Cucumber**
+- 🔁 Improving **CI/CD integration** with Jenkins and GitHub
+- 🧠 Exploring **AI-assisted testing** and test design
 
 ---
 
-## ⚙️ Backend
+## 🛠 Tech Stack & Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+### 🤖 Test Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright_(Learning)-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
----
+### 🔌 API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-5C9E31?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JSON/XML](https://img.shields.io/badge/JSON_%2F_XML-000000?style=for-the-badge&logo=json&logoColor=white)
 
-## 🗄 Database
+### 🐞 Defect Management & Monitoring
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![Rally](https://img.shields.io/badge/Rally-0057B8?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-5C2D91?style=for-the-badge)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase"/>
-</p>
+### 🔁 CI/CD, Version Control & Database
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## ☁️ Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker"/>
-</p>
-
----
-
-## 🧪 Testing
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium,postman"/>
-</p>
-
-- Selenium
-- TestNG
-- Cucumber
-- Maven
-- Postman
-- API Testing
-- Manual Testing
-
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma"/>
-</p>
+### 📋 Testing Expertise
+| Area | Skills |
+|------|--------|
+| **Manual Testing** | Functional, Regression, Integration, System, UAT, Smoke, Sanity, Cross-Browser |
+| **Test Design** | BVA, Equivalence Partitioning, Traceability Matrix, RCA |
+| **Automation Design** | Page Object Model (POM), Hybrid Framework, Data-Driven Testing |
+| **Reporting** | Extent Reports, TestNG Reports, Log4j |
+| **Auth Testing** | Okta SSO, Token Validation, Session Management |
+| **Methodologies** | Agile (Scrum), SDLC, STLC, Shift-Left Testing, Risk-Based Testing |
 
 ---
 
-# 🔥 GitHub Streak
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧪 **Selenium Automation Framework** | Hybrid framework with POM, reporting and logging | Java, Selenium, TestNG, Maven |
+| 🔌 **API Testing Collection** | REST API test suites covering status codes, headers and payload validation | Postman |
+| 🎭 **Playwright Practice** | Hands-on end-to-end tests while learning Playwright | Playwright |
+
+> 📌 Add repository links to each project once they are public.
+
+---
+
+## 🏢 Professional Experience
+
+**Senior Quality Engineer** · LTIMindtree, Bengaluru · *Jan 2026 – Present*
+**Quality Engineer** · LTIMindtree, Bengaluru · *Aug 2022 – Dec 2025*
+
+Domain: **US Personal Insurance**, covering rate quoting, policy issuance, renewals, endorsements, billing and claims.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Spot Award 2024**, LTIMindtree, for consistent performance, ownership and cross-team collaboration
+- 📜 **Certified in Software Testing**, QSpiders (2022)
+- 🎓 **BCA**, Mangalore University (2018 – 2021)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal29hegde-create&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal29hegde-create&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🤝 Let's Connect
 
-| Project | Description |
-|----------|-------------|
-| 🌐 Norvique Technologies | Official Company Website |
-| 📸 Take SS | Screenshot Tool |
-| 🤖 Face Recognition Attendance System | AI Powered Attendance |
-| 🎯 Smart Attendance System | QR + GPS + Face Recognition |
-| 🧪 Selenium Automation Framework | Java + Selenium + TestNG |
-| 📊 Machine Learning Project | AI Based Project |
-
----
-
-# 📚 Currently Learning
-
-- ☁️ AWS Cloud
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚛️ Advanced Next.js
-- 🚀 System Design
-- 🐳 Docker & DevOps
-
----
-
-# 🤝 Connect With Me
+I'm always open to discussing QA automation, test strategy and quality engineering.
 
 <p align="center">
-
-<a href="https://norvique-technologies.vercel.app">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/prajwal-hegde-a98062220">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:prajwal29hegde@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
-
----
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
-### 🚀 Building the future with Norvique Technologies
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 
